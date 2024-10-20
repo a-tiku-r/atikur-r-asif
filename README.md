@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/a_tiku_r" target="blank"><img src="https://img.shields.io/twitter/follow/a_tiku_r?logo=twitter&style=for-the-badge" alt="a_tiku_r" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **API & DATABASE MANEJMENT**
 
-- 🤝 I’m looking for help with **Frontend**
+- 🤝 I’m looking for help with **MERN**
 
-- 💬 Ask me about **Frontend**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **atikurrahman.cse.nub@gmail.com**
 
